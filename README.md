@@ -1,2 +1,16 @@
-# EcommerceApp
- offering a seamless shopping experience with a wide range of products at unbeatable prices! From fashion and electronics to home essentials and beauty products, ShopEase brings everything you need right to your fingertips. Enjoy exclusive deals, secure payments, fast delivery, and 24/7 customer support for a hassle-free shopping journey
+# ecommerceproject
+
+Ecommerce App
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
